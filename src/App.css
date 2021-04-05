@@ -92,6 +92,7 @@ form button:hover {
 }
 
 .completed {
+  transition: 5ms;
   text-decoration: line-through;
   opacity: 0.5;
 }
