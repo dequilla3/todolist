@@ -1,2 +1,2 @@
 # todolist
-Simple TODOLIST APP with ReactJS
+Simple TODOLIST APP with React JS
