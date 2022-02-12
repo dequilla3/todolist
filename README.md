@@ -1,2 +1,2 @@
 # todolist
- first commit react todolist
+Simple TODOLIST APP with ReactJS
